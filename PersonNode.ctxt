@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=PersonNode
+comment1.params=first\ middle\ last\ Id\ cat\ nick
+comment1.target=PersonNode(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2

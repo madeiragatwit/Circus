@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CategoryNode
+comment1.params=category
+comment1.target=CategoryNode(java.lang.String)
+comment2.params=category\ list
+comment2.target=CategoryNode(java.lang.String,\ PersonList)
+numComments=3

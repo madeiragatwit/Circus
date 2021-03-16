@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ Write\ a\ description\ of\ JavaFX\ class\ Menu\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=event
+comment2.target=void\ handleCreate(javafx.event.ActionEvent)
+comment3.params=event
+comment3.target=void\ handleDelete(javafx.event.ActionEvent)
+comment4.params=event
+comment4.target=void\ handleSortL(javafx.event.ActionEvent)
+comment5.params=event
+comment5.target=void\ handleSortID(javafx.event.ActionEvent)
+comment6.params=event
+comment6.target=void\ handleQuit(javafx.event.ActionEvent)
+numComments=7
